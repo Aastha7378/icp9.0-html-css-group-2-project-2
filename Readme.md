@@ -12,6 +12,7 @@ DigitalEra is an online platform designed to provide users with a seamless exper
 - Nothing
 - Mi
   
+![home page image](./Images/homeimg.png)
 ![top deals](topdeals.png)
 ![best sellers](./Images/bestsellers.png)
 ![all brands phone](./Images/category-1.png)
