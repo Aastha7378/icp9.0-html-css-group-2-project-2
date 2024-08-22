@@ -115,3 +115,11 @@
     box-shadow: 0 0 10px 3px ;
     transition: 1sec;
 }
+.oppofbg{
+    background-color: white;
+    padding-bottom: 60px;
+    margin-top: 50px;
+}
+.oopoftext{
+    margin-top:-30px;
+}
