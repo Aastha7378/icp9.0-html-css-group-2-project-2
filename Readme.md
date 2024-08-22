@@ -12,10 +12,9 @@ DigitalEra is an online platform designed to provide users with a seamless exper
 - Nothing
 - Mi
   
-![Home Page](homepage.png)
-![Top Deals](topdeals.png)
-![best sellers](bestsellers.png)
-![all brands phone](category-1.png)
-![all brands phone](category-2.png)
+![top deals](topdeals.png)
+![best sellers](./Images/bestsellers.png)
+![all brands phone](./Images/category-1.png)
+![all brands phone](./Images/category-2.png)
 ---
-[visit our website digitalera]()
+[visit our website digitalera](https://digitalera-mobileshop-icp9.netlify.app/)
